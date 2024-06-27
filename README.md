@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @smiski312
-- 👀 I’m interested in AI/ML
 - 🌱 I am trying to apply my knowledge in medicine and healthcare technology
 
 <!---
